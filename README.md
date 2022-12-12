@@ -1,5 +1,5 @@
 ### Hi there, I'm Lucas Guimarães, software developer and technology enthusiast.
-Currently working as administration worker at state-level legislature. I’m currently studying Java in order to become a fullstack developer.
+Full-stack developer intern and administration worker at state-level legislature
 ##
 <!--
 <div>
