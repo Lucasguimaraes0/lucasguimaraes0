@@ -1,5 +1,5 @@
 ### Hi there, I'm Lucas Guimarães, software developer and technology enthusiast.
-Full-stack developer intern and administration worker at state-level legislature
+Full-stack developer and administration worker at state-level legislature
 ##
 <!--
 <div>
